@@ -135,7 +135,7 @@ $peternaks = $stmt->get_result()->fetch_all(MYSQLI_ASSOC);
                 <a class="btn-wa"
                    target="_blank"
                    href="https://wa.me/62<?= preg_replace('/[^0-9]/', '', $p['phone']) ?>">
-                   WhatsApp
+                   WhatsApp Josjis
                 </a>
                 <a class="btn-detail" href="detail_peternak.php?id=<?= $p['id'] ?>">
                    Detail
