@@ -157,7 +157,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <h2>Kontak</h2>
 <p>Admin Perangkat Desa:</p>
 <ul>
-  <li>Kepala Desa: Nama - 0812xxxx</li>
+  <li>Kepala Desa: Suroso - 0812xxxx</li>
   <li>Sekretaris: Nama - 0812xxxx</li>
 </ul>
 
